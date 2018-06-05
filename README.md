@@ -1,3 +1,4 @@
+http://localhost:8080/job/testing/badge/icon
 # testing
 Testing 
 Check check 1 2 3...
