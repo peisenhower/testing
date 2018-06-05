@@ -1,4 +1,4 @@
-<a href='http://localhost:8080/job/testing'><img src='http://localhost:8080/job/testing/badge/icon'></a>
+[![Build Status](http://localhost:8080/job/testing/badge/icon)](http://localhost:8080/job/testing/)
 # testing
 Testing 
 Check check 1 2 3...
