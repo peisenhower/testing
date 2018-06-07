@@ -6,9 +6,10 @@
   "author": "Adam vanWestrienen <avanwest@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "jest": "^23.1.0",
     "react": "^16.4.0"
   },
   "scripts": {
-  "test": "echo \"Error: no test specified.\""
+    "test": "jest"
   }
 }
