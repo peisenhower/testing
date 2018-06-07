@@ -1,5 +1,4 @@
 
-[![Build Status](http://localhost:8080/job/testing/badge/icon)](http://localhost:8080/job/testing)
 
 # testing
 Testing 
